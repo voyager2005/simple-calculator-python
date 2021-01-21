@@ -21,4 +21,4 @@ This is a simple calculator program that I have written. Please do check our and
 ![image5 1](https://user-images.githubusercontent.com/76808676/105127782-8e959b00-5b07-11eb-8d87-dd0a38c62cf2.png)
 
 [python]: https://github.com/voyager2005/simple-calculator-python/blob/main/SimpleCalculator_beta.py
-[I want to work on next]:https://github.com/simple-calculator-python#things-that-i-want-to-work-on
+[I want to work on next]: https://github.com/voyager2005/simple-calculator-python/blob/main/README.md#things-that-i-want-to-work-on
